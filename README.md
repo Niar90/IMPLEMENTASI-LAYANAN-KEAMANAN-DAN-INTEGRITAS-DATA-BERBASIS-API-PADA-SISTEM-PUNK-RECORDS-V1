@@ -1,6 +1,11 @@
 # KID Project
 Project ini mensimulasikan layanan security server sederhana dalam bahasa Python.
 
+# Anggota Kelompok
+1. Nurul Aini
+2. Nia Ayu Agustin
+3. Siti Aisyah Febriyanti
+
 # Instalasi
 1.  Pasang uv from [situs resmi](https://docs.astral.sh/uv/getting-started/installation/).
 2.  Persipakan project ini dengan melakukan sinkronisasi dependensi. Ketik `uv sync` pada terminal di lokasi project ini berada. Perintah ini akan membuat sebuah virtual environment `.venv` (hidden) pada root folder, lalu memasang libraries yang dibutuhkan.
